@@ -1,6 +1,32 @@
 ---
 title: "Call for Papers"
 ---
-<!-- {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}} -->
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+## Submissions Type ##
+
+The workshop provides a platform to share results, valuable critiques, and broad discussion papers. Therefore, HotDiML invites researchers and practitioners to submit four different types of papers, namely:
+1. position papers offering a constructive critique of state-of-the-art DiML approaches or their implementation in real-world scenarios
+2. experimental evaluation papers, presenting preliminary (un)successful or unexpected results on novel ideas
+3. research papers providing thorough insights on challenges and open questions regarding the design and adoption of DiML systems
+4. report papers presenting valuable lessons learned while proposing and/or testing promising but unproven ideas.
+
+The papers submitted at HotDiML should have the potential to open a new line of research for the community, where the authors can benefit from community feedback. 
+
+## Topics of Interest ##
+
+The workshop invites authors to submit papers on the following (but not limited to) topics of interest:
+- Security of FL
+- Privacy and anonymity in FL
+- Network-based solutions for DiML
+- Multi-party computation for ML
+- Homomorphic encryption for DiML
+- Differential privacy in FL
+- Exciting and unorthodox applications of DiML
+- DiML scalability
+- Online learning
+- Hardware solutions for enabling DiML
+- Split learning
+- Cloud continuum for DiML
+- Theoretical findings concerning DiML and FL
+- Neuro-symbolic distributed learning
+- FL-based protocols for security and privacy
