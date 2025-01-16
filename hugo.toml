@@ -1,0 +1,4 @@
+baseURL = 'https://hotdiml.github.io/HotDiML2025/'
+languageCode = 'en-us'
+title = 'HotDiML2025'
+theme = 'ananke'
