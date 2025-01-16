@@ -64,11 +64,11 @@ networks = [
   weight = 3
 
 [[menu.main]]
-  name = "Submission"
-  url = "/submission"
+  name = "Program"
+  url = "/program"
   weight = 4
 
 [[menu.main]]
-  name = "Program"
-  url = "/program"
+  name = "Register"
+  url = "/register"
   weight = 5
