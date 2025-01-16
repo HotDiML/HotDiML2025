@@ -2,23 +2,50 @@
 title: "Committee"
 ---
 
-
 ## Organizing Committee ##
 
-<!-- {{< figure src="andrea_agiollo.jpg" title="Andrea Agiollo" width="30%">}} {{< figure src="andrea_agiollo.jpg" title="Andrea Agiollo" width="30%">}}
-{{< figure src="andrea_agiollo.jpg" title="Andrea Agiollo" width="30%">}} -->
+<table>
+    <col width="30%" />
+    <col width="30%" />
+    <col width="30%" />
+    <tr>
+        <td><img src="andrea_agiollo.jpg" width=80%></td>
+        <td><img src="andrea_agiollo.jpg" width=80%></td>
+        <td><img src="andrea_agiollo.jpg" width=80%></td>
+    </tr>
+    <tr>
+        <td> <a href='https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people/andrea-agiollo'>Andrea Agiollo</a> </td>
+        <td> <a href='https://bardhienkeleda.github.io'>Enkeleda Bardhi</a> </td>
+        <td> <a href='https://www.unibo.it/sitoweb/paolo.bellavista'>Paolo Bellavista</a> </td>
+    </tr>
+    <tr>
+        <td> TU Delft, The Netherlands </td>
+        <td> TU Delft, The Netherlands </td>
+        <td> University of Bologna, Italy </td>
+    </tr>
+ </table>
 
-<img src="andrea_agiollo.jpg" title="Andrea Agiollo" width="200" height="200" />
+ <table>
+    <col width="30%" />
+    <col width="30%" />
+    <col width="30%" />
+    <tr>
+        <td><img src="andrea_agiollo.jpg" width=80%></td>
+        <td><img src="andrea_agiollo.jpg" width=80%></td>
+        <td>  </td>
+    </tr>
+    <tr>
+        <td> <a href='https://rjvak7.github.io'>Rajiv Khanna</a> </td>
+        <td> <a href='https://sites.google.com/diag.uniroma1.it/lazzerettiriccardo/home'>Riccardo Lazzeretti</a> </td>
+        <td>  </td>
+    </tr>
+    <tr>
+        <td> Purdue University, Indiana, USA </td>
+        <td> Sapienza University of Rome, Italy </td>
+        <td>  </td>
+    </tr>
+ </table>
 
-![Andrea Agiollo](andrea_agiollo.jpg =100x20) ![Enkeleda Bardhi](/static/images/glasgow.jpg)  ![Paolo Bellavista](/static/images/glasgow.jpg)
-
-![Riccardo Lazzeretti](/static/images/glasgow.jpg) ![Rajiv Khanna](/static/images/glasgow.jpg)  
-
-<p align="center">
-  <img alt="Light" src="../../../../static/images/glasgow.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="/static/images/glasgow.jpg" width="45%">
-</p>
 
 ## Keynote ##
 

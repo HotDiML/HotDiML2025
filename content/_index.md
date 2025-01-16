@@ -1,7 +1,7 @@
 ---
-title: "1st Workshop on Hot Topics in Distributed Machine Learning"
+title: "1<sup>st</sup> Workshop on Hot Topics in Distributed Machine Learning"
 
-description: "in conjunction with ICDCS 2025, 20 - 23 July, Glasgow, Scotland, UK"
+description: "in conjunction with <a href='https://icdcs2025.icdcs.org'>Title</a> [ICDCS 2025](https://icdcs2025.icdcs.org), 20 - 23 July, Glasgow, Scotland, UK"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
