@@ -26,7 +26,7 @@
       <link>http://localhost:1313/HotDiML2025/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HotDiML2025/dates/</guid>
-      <description>&lt;p&gt;This is the page with important dates.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;workshop-paper-submission-deadline&#34;&gt;Workshop paper submission deadline&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;March 16th, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;author-notification&#34;&gt;Author Notification&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;April 2nd, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;camera-ready-submission&#34;&gt;Camera-ready Submission&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;April 16th, 2025&lt;/em&gt; &lt;strong&gt;(hard deadline)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;workshop-date&#34;&gt;Workshop Date&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;July 20th, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Program</title>
@@ -40,7 +40,7 @@
       <link>http://localhost:1313/HotDiML2025/submission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HotDiML2025/submission/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;em&gt;The Hunchback of Notre-Dame&lt;/em&gt; (French: &lt;em&gt;Notre-Dame de Paris&lt;/em&gt;) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;general-submission-guidelines&#34;&gt;General Submission Guidelines&lt;/h2&gt;&#xA;&lt;p&gt;Submissions to the Workshop must be original and unpublished and must not be submitted concurrently for publication elsewhere. All submissions should follow the IEEE 8.5″ x 11″ two-column format using 10pt fonts and the IEEE Conference template downloadable by selecting “Conferences” in the IEEE-Template Selector &lt;a href=&#34;https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftemplate-selector.ieee.org%2F&amp;amp;data=05%7C02%7CE.Bardhi-1%40tudelft.nl%7C2a8dc74a48b04bd58dc208dd357c26de%7C096e524d692940308cd38ab42de0887b%7C0%7C0%7C638725529536479157%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=l6RCYcs2Ota9DtV3jVuAJ0GDKdyZCy4c%2FGdSSea96uE%3D&amp;amp;reserved=0&#34;&gt;at this link&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Each submission can have up to X pages (including figures, tables, appendices, and references). Submissions exceeding this page limit or with smaller fonts will be desk-rejected without review. The review process is singe/double-blind review.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
