@@ -8,7 +8,7 @@ title: "Call for Papers"
 
 The workshop provides a platform to share results, valuable critiques, and broad discussion papers. Therefore, HotDiML invites researchers and practitioners to submit four different types of papers, namely:
 1. **position papers** offering a constructive critique of state-of-the-art DiML approaches or their implementation in real-world scenarios
-2. **experimental evaluation** papers, presenting preliminary (un)successful or unexpected results on novel ideas
+2. **experimental evaluation papers**, presenting preliminary (un)successful or unexpected results on novel ideas
 3. **research papers** providing thorough insights on challenges and open questions regarding the design and adoption of DiML systems
 4. **report papers** presenting valuable lessons learned while proposing and/or testing promising but unproven ideas.
 
