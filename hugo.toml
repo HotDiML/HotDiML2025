@@ -69,8 +69,8 @@ networks = [
   weight = 4
 
 [[menu.main]]
-  name = "Register"
-  url = "/register"
+  name = "Attend"
+  url = "/attend"
   weight = 5
 
 

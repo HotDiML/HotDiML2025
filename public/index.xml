@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/HotDiML2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Attend</title>
+      <link>http://localhost:1313/HotDiML2025/attend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HotDiML2025/attend/</guid>
+      <description>&lt;h2 id=&#34;important-note&#34;&gt;Important Note&lt;/h2&gt;&#xA;&lt;p&gt;For each accepted paper, at least one author is required to register and attend the workshop in-person to present their paper on-site. No-show paper will be reported to the publisher and removed from the ICDCSW companion conference proceedings. All accepted and presented papers will be included in the IEEE ICDCSW companion conference proceedings and IEEE digital library.&lt;/p&gt;&#xA;&lt;h2 id=&#34;venue-and-registration&#34;&gt;Venue and registration&lt;/h2&gt;&#xA;&lt;p&gt;The joint ICDCS 2025 conference will be held in Glasgow, Scotland (UK).&#xA;The participants are invited to refer to the &lt;a href=&#34;https://icdcs2025.icdcs.org&#34;&gt;ICDCS2025 Hotel/Travel&lt;/a&gt; website for further information regarding the venue, accomodation or any travel matter.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Call for Papers</title>
       <link>http://localhost:1313/HotDiML2025/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,13 +41,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HotDiML2025/program/</guid>
       <description>&lt;p&gt;Here is a &lt;i&gt;tentative&lt;/i&gt; schedule of the workshop program.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;    &lt;col width=&#34;30%&#34; /&gt;&#xA;    &lt;col width=&#34;70%&#34; /&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;9:00 - 9:10&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;i&gt;Opening Session by Organizing Committee&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;9:10 - 10:00&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;b&gt;&lt;i&gt;Keynote&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;10:00 - 11:00&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;i&gt;First Paper Presentation Session&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;11:00 - 11:30&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;Coffee Break ☕&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;11:30 - 12:45&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;i&gt;Second Paper Presentation Session&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;12:45 - 13:00&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;&lt;i&gt;Closing Session by Organizing Committee&lt;/i&gt;&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;        &lt;td&gt;&lt;b&gt;13:00 - Onward&lt;/b&gt;&lt;/td&gt;&#xA;        &lt;td&gt;Lunch 🍕🍕🍕&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA; &lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Register</title>
-      <link>http://localhost:1313/HotDiML2025/register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HotDiML2025/register/</guid>
-      <description>&lt;h2 id=&#34;important-note&#34;&gt;Important Note&lt;/h2&gt;&#xA;&lt;p&gt;For each accepted paper, at least one author is required to register and attend the workshop in-person to present their paper on-site. No-show paper will be reported to the publisher and removed from the ICDCSW companion conference proceedings. All accepted and presented papers will be included in the IEEE ICDCSW companion conference proceedings and IEEE digital library.&lt;/p&gt;&#xA;&lt;h2 id=&#34;venue-and-registration&#34;&gt;Venue and registration&lt;/h2&gt;&#xA;&lt;p&gt;The joint ICDCS 2025 conference will be held in Glasgow, Scotland (UK).&#xA;The participants are invited to refer to the &lt;a href=&#34;https://icdcs2025.icdcs.org&#34;&gt;ICDCS2025 Hotel/Travel&lt;/a&gt; website for further information regarding the venue, accomodation or any travel matter.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

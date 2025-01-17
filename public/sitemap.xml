@@ -6,6 +6,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/HotDiML2025/register/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/HotDiML2025/cfp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -23,10 +27,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/HotDiML2025/program/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/HotDiML2025/register/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
