@@ -1,5 +1,5 @@
 ---
-title: "1<sup>st</sup> Workshop on Hot Topics in Distributed Machine Learning"
+title: "1st Workshop on Hot Topics in Distributed Machine Learning"
 
 description: "In conjunction with ICDCS 2025, 20 - 23 July, Glasgow, Scotland, UK"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
