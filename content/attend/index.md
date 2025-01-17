@@ -1,5 +1,5 @@
 ---
-title: "Register"
+title: "Attend"
 ---
 
 ## Important Note ##
