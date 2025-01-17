@@ -10,18 +10,23 @@ title: "Committee"
     <col width="30%" />
     <tr>
         <td><img src="andrea_agiollo.jpg" width=80%></td>
-        <td><img src="andrea_agiollo.jpg" width=80%></td>
-        <td><img src="andrea_agiollo.jpg" width=80%></td>
+        <td><img src="enkeleda_bardhi.jpg" width=80%></td>
+        <td><img src="paolo_bellavista.jpg" width=80%></td>
     </tr>
     <tr>
-        <td> <a href='https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people/andrea-agiollo'>Andrea Agiollo</a> </td>
-        <td> <a href='https://bardhienkeleda.github.io'>Enkeleda Bardhi</a> </td>
+        <td> <a href='https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/cybersecurityeemcs/people/andrea-agiollo'>Andrea Agiollo</a> <b> (Primary contact) </b> </td>
+        <td> <a href='https://bardhienkeleda.github.io'>Enkeleda Bardhi</a> <b> (Primary contact) </b> </td>
         <td> <a href='https://www.unibo.it/sitoweb/paolo.bellavista'>Paolo Bellavista</a> </td>
     </tr>
     <tr>
         <td> TU Delft, The Netherlands </td>
         <td> TU Delft, The Netherlands </td>
         <td> University of Bologna, Italy </td>
+    </tr>
+    <tr>
+        <td> 📧 <a href='mailto:A.Agiollo-1@tudelft.nl'>A.Agiollo-1@tudelft.nl</a> </td>
+        <td> 📧 <a href='mailto:E.Bardhi-1@tudelft.nl'>E.Bardhi-1@tudelft.nl</a>  </td>
+        <td> 📧 <a href='mailto:paolo.bellavista@unibo.it'>paolo.bellavista@unibo.it</a>  </td>
     </tr>
  </table>
 
@@ -30,8 +35,8 @@ title: "Committee"
     <col width="30%" />
     <col width="30%" />
     <tr>
-        <td><img src="andrea_agiollo.jpg" width=80%></td>
-        <td><img src="andrea_agiollo.jpg" width=80%></td>
+        <td><img src="rajiv_khanna.jpg" width=80%></td>
+        <td><img src="riccardo_lazzeretti.jpg" width=80%></td>
         <td>  </td>
     </tr>
     <tr>
@@ -42,6 +47,11 @@ title: "Committee"
     <tr>
         <td> Purdue University, Indiana, USA </td>
         <td> Sapienza University of Rome, Italy </td>
+        <td>  </td>
+    </tr>
+    <tr>
+        <td> 📧 <a href='mailto:rajivak@purdue.edu'>rajivak@purdue.edu</a> </td>
+        <td> 📧 <a href='mailto:lazzeretti@diag.uniroma1.it'>lazzeretti@diag.uniroma1.it</a>  </td>
         <td>  </td>
     </tr>
  </table>
