@@ -63,4 +63,21 @@ TBD.
 
 ## Technical Program Committee ##
 
-TBD.
+- Giovanni Apruzzese, *University of Liechtenstein*
+- Silvia Bonomi, *Sapienza University of Rome*
+- Alessandro Brighente, *University of Padua*
+- Gianluca Capozzi, *Sapienza University of Technology*
+- Stefano Cecconello, *University of Padua*
+- Giovanni Ciatto, *University of Bologna*
+- Nicolò Dal Fabbro, *University of Pennsylvania*
+- Giuseppe Antonio Di Luna *Sapienza University of Rome*
+- Salma Kharrat, *KAUST*
+- Stefanos Koffas, *Delft University of Technology*
+- Matteo Mendula, *Centre Tecnologic de Telecomunicacions de Cataluya*
+- Mirco Musolesi, *University College London*
+- Alessandro Palma, *Sapienza University of Rome*
+- Leonardo Querzoni, *Sapienza University of Rome*
+- Boris Radovic, *KAUST*
+- Savio Sciancalepore, *Eindhoven University of Technology*
+- Rui Wang, *Delft University of Technology*
+- Adrian Zapletal, *Delft University of Technology*
