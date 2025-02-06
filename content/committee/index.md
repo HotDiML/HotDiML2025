@@ -70,6 +70,7 @@ TBD.
 - Stefano Cecconello, *University of Padua*
 - Giovanni Ciatto, *University of Bologna*
 - Nicolò Dal Fabbro, *University of Pennsylvania*
+- Minoo Hosseinzadeh, *University of Kentucky*
 - Giuseppe Antonio Di Luna *Sapienza University of Rome*
 - Salma Kharrat, *KAUST*
 - Stefanos Koffas, *Delft University of Technology*
