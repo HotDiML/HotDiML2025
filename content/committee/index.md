@@ -63,10 +63,11 @@ TBD.
 
 ## Technical Program Committee ##
 
+- Anish Acharya, *University of Texas Austin*
 - Giovanni Apruzzese, *University of Liechtenstein*
 - Silvia Bonomi, *Sapienza University of Rome*
 - Alessandro Brighente, *University of Padua*
-- Gianluca Capozzi, *Sapienza University of Technology*
+- Gianluca Capozzi, *Sapienza University of Rome*
 - Stefano Cecconello, *University of Padua*
 - Giovanni Ciatto, *University of Bologna*
 - Nicolò Dal Fabbro, *University of Pennsylvania*
