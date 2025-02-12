@@ -71,10 +71,12 @@ TBD.
 - Gianluca Capozzi, *Sapienza University of Rome*
 - Stefano Cecconello, *University of Padua*
 - Giovanni Ciatto, *University of Bologna*
-- Davide Domini, *University of Bologna*
 - Nicolò Dal Fabbro, *University of Pennsylvania*
 - Giuseppe Antonio Di Luna *Sapienza University of Rome*
+- Davide Domini, *University of Bologna*
+- Minoo Hosseinzadeh, *University of Kentucky*
 - Stefanos Koffas, *TU Delft*
+- Dazhuang Liu, *TU Delft*
 - Matteo Mendula, *Centre Tecnologic de Telecomunicacions de Cataluya*
 - Mirco Musolesi, *University College London*
 - Alessandro Palma, *Sapienza University of Rome*
