@@ -74,6 +74,7 @@ TBD.
 - Nicolò Dal Fabbro, *University of Pennsylvania*
 - Giuseppe Antonio Di Luna *Sapienza University of Rome*
 - Davide Domini, *University of Bologna*
+- Briland Hitaj, *SRI International*
 - Minoo Hosseinzadeh, *University of Kentucky*
 - Stefanos Koffas, *TU Delft*
 - Dazhuang Liu, *TU Delft*
