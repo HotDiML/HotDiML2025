@@ -63,4 +63,26 @@ TBD.
 
 ## Technical Program Committee ##
 
-TBD.
+- Anish Acharya, *University of Texas Austin*
+- Gianluca Aguzzi, *University of Bologna*
+- Giovanni Apruzzese, *University of Liechtenstein*
+- Silvia Bonomi, *Sapienza University of Rome*
+- Alessandro Brighente, *University of Padua*
+- Gianluca Capozzi, *Sapienza University of Rome*
+- Stefano Cecconello, *University of Padua*
+- Giovanni Ciatto, *University of Bologna*
+- Nicolò Dal Fabbro, *University of Pennsylvania*
+- Giuseppe Antonio Di Luna *Sapienza University of Rome*
+- Davide Domini, *University of Bologna*
+- Briland Hitaj, *SRI International*
+- Minoo Hosseinzadeh, *University of Kentucky*
+- Stefanos Koffas, *TU Delft*
+- Dazhuang Liu, *TU Delft*
+- Matteo Mendula, *Centre Tecnologic de Telecomunicacions de Cataluya*
+- Mirco Musolesi, *University College London*
+- Alessandro Palma, *Sapienza University of Rome*
+- Yanqi Qiao, *TU Delft*
+- Leonardo Querzoni, *Sapienza University of Rome*
+- Savio Sciancalepore, *Eindhoven University of Technology*
+- Rui Wang, *TU Delft*
+- Adrian Zapletal, *TU Delft*

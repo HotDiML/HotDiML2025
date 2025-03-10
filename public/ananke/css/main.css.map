@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/andreaagiollo/Documents/PostDoc/Organizer/HotDiML_2025/website",
+	"sourceRoot": "/Users/ebardhi1/Desktop/work/organizer/hotDiML@ICDCS25/HotDiML2025",
 	"sources": [
 		"ananke/css/main.css"
 	],
