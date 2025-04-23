@@ -3,7 +3,7 @@ title: "Important Dates"
 ---
 
 ### Workshop paper submission deadline ###
-⏰ *March 16th, 2025*
+⏰ *March 24th, 2025*
 
 ### Author Notification ###
 ⏰ *April 2nd, 2025*
