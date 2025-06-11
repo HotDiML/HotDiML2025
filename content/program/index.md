@@ -22,7 +22,7 @@ Here is a <i>tentative</i> schedule of the workshop program.
     </tr>
     <tr>
         <td></td>
-        <td><u>Iddle No More: Boosting Distributed Pipeline Training via FluidPipe;</u> <i>Mohammed Aljahdali and Marco Canini</i></td>
+        <td><u>Idle No More: Boosting Distributed Pipeline Training via FluidPipe;</u> <i>Mohammed Aljahdali and Marco Canini</i></td>
     </tr>
     <tr>
         <td></td>
@@ -43,10 +43,6 @@ Here is a <i>tentative</i> schedule of the workshop program.
     <tr>
         <td></td>
         <td><u>A Federated Learning Approach with Spiking Neurons and Clustering for Smart Meter Data;</u> <i>Ubaid Ahmed, Ahsan Raza Khan, Rao Naveed Bin Rais, Anzar Mahmood, Sajjad Hussain and Ahmed Zoha</i></td>
-    </tr>
-        <tr>
-        <td></td>
-        <td><u>Mixup-VFL: Leveraging Unaligned Data for Enhanced Regression in Vertical Federated Learning;</u> <i>Prudhvi Gudla, Sachish Singla, Ayush Kumar, Devodita Chakravarty, Varun Thirupathy, Avi Amalanshu and Debashish Chakravarty</i></td>
     </tr>
         <tr>
         <td></td>
