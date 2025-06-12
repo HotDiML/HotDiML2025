@@ -59,8 +59,31 @@ title: "Committee"
 
 ## Keynote ##
 
-TBD.
+<table>
+    <col width="30%" />
+    <col width="30%" />
+    <col width="30%" />
+    <tr>
+        <td><img src="giuseppe_antonio_di_luna.jpg" width=80%></td>
+    </tr>
+    <tr>
+        <td><a href='https://sites.google.com/site/gadiluna/home?authuser=0'>Giuseppe Antonio Di Luna</a> </td>
+    </tr>
+        <tr>
+        <td> Sapienza University of Rome, Italy </td>
+        <td>  </td>
+    </tr>
+</table>
 
+**Title:**
+The Landscape of Analyzing Binaries with Deep Neural Networks
+
+**Abstract:**
+Deep Neural Networks (DNNs) have shown promising results in several fields, including binary analysis. By binary analysis, we refer to the ability to solve specific tasks that may be of interest to reverse engineers — such as identifying the compiler toolchain used to produce a given executable, determining the start and end of functions in a stripped binary, or comparing two binaries to detect shared code segments.
+In this talk, we will explore the current landscape of applying DNNs to binary analysis. Using various binary analysis tasks as examples, we will discuss the common challenges that arise and the trade-offs involved in different solution strategies. In particular, we will highlight how binary analysis introduces unique problems in the pre-processing and tokenization stages, and how different neural architectures require different abstract representations of binaries
+
+**Bio:**
+He received his Ph.D. from Sapienza University of Rome in 2015, with a dissertation on counting in anonymous dynamic networks. Following his Ph.D., he conducted postdoctoral research at the University of Ottawa, focusing on fault-tolerant distributed algorithms, distributed robotics, and algorithm design for programmable matter. In 2018, he began a postdoctoral position at Aix-Marseille University, where he worked on dynamic graphs. He is currently an Associate Professor at Sapienza University of Rome, where from 2019 is working on the analysis of binaries using deep neural networks.
 ## Technical Program Committee ##
 
 - Anish Acharya, *University of Texas Austin*
