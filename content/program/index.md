@@ -13,11 +13,11 @@ Here is a <i>tentative</i> schedule of the workshop program.
         <td><b>Opening Session by Organizing Committee</b></td>
     </tr>
     <tr>
-        <td><b>9:10 - 10:00</b></td>
+        <td><b>9:10 - 10:20</b></td>
         <td><b>Keynote</b></td>
     </tr>
     <tr>
-        <td><b>10:00 - 11:00</b></td>
+        <td><b>10:20 - 11:00</b></td>
         <td><b>First Paper Presentation Session</td>
     </tr>
     <tr>
@@ -29,16 +29,16 @@ Here is a <i>tentative</i> schedule of the workshop program.
         <td><u>Enhancing Federated Graph Learning with Adaptive Differential Privacy;</u> <i>Sotiriοs Messinis, Nicholas Ε. Protonotarios, Ioannis Rallis, Dimitris Kalogeras and Nikolaos Doulami</i></td> 
     </tr>       
     <tr>
-        <td></td>
-        <td><u>Byzantine-Resilient Federated Learning: Evaluating MPC Approaches;</u> <i>Yasin Abdullah, Mohammed B. Alshawki, Peter Ligeti, Wissem Soussi and Burkhard Stiller</i></td>
-    </tr>
-    <tr>
         <td><b>11:00 - 11:30</b></td>
         <td><b>Coffee Break ☕</b></td>
     </tr>
     <tr>
-        <td><b>11:30 - 12:45</b></td>
+        <td><b>11:30 - 12:30</b></td>
         <td><b>Second Paper Presentation Session</b></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><u>Byzantine-Resilient Federated Learning: Evaluating MPC Approaches;</u> <i>Yasin Abdullah, Mohammed B. Alshawki, Peter Ligeti, Wissem Soussi and Burkhard Stiller</i></td>
     </tr>
     <tr>
         <td></td>
@@ -49,11 +49,11 @@ Here is a <i>tentative</i> schedule of the workshop program.
         <td><u>Online Decentralized Federated Multi-task Learning With Trustworthiness in Cyber-Physical Systems;</u> <i>Olusola Odeyomi</i></td>
     </tr>
     <tr>
-        <td><b>12:45 - 13:00</b></td>
+        <td><b>12:30 - 12:45</b></td>
         <td><b>Closing Session by Organizing Committee</b></td>
     </tr>
     <tr>
-        <td><b>13:00 - Onward</b></td>
+        <td><b>12:45 - Onward</b></td>
         <td>Lunch 🍕🍕🍕</td>
     </tr>
  </table>
