@@ -2,7 +2,7 @@
 title: "Program"
 ---
 
-Here is a <i>tentative</i> schedule of the workshop program.
+Here is the <i>final</i> schedule of the workshop program.
 
 
 <table>
