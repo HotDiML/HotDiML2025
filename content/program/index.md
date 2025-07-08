@@ -9,15 +9,19 @@ Here is the <i>final</i> schedule of the workshop program.
     <col width="15%" />
     <col width="85%" />
     <tr>
-        <td><b>9:00 - 9:10</b></td>
+        <td><b>13:45 - 13:55</b></td>
         <td><b>Opening Session by Organizing Committee</b></td>
     </tr>
     <tr>
-        <td><b>9:10 - 10:20</b></td>
+        <td><b>13:55 - 15:15</b></td>
         <td><b>Keynote</b></td>
     </tr>
     <tr>
-        <td><b>10:20 - 11:00</b></td>
+        <td><b>15:15 - 15:45</b></td>
+        <td><b>Coffee Break ☕</b></td>
+    </tr>
+    <tr>
+        <td><b>15:45 - 16:15</b></td>
         <td><b>First Paper Presentation Session</td>
     </tr>
     <tr>
@@ -29,11 +33,7 @@ Here is the <i>final</i> schedule of the workshop program.
         <td><u>Enhancing Federated Graph Learning with Adaptive Differential Privacy;</u> <i>Sotiriοs Messinis, Nicholas Ε. Protonotarios, Ioannis Rallis, Dimitris Kalogeras and Nikolaos Doulami</i></td> 
     </tr>       
     <tr>
-        <td><b>11:00 - 11:30</b></td>
-        <td><b>Coffee Break ☕</b></td>
-    </tr>
-    <tr>
-        <td><b>11:30 - 12:30</b></td>
+        <td><b>16:15 - 17:00</b></td>
         <td><b>Second Paper Presentation Session</b></td>
     </tr>
     <tr>
@@ -49,11 +49,7 @@ Here is the <i>final</i> schedule of the workshop program.
         <td><u>Online Decentralized Federated Multi-task Learning With Trustworthiness in Cyber-Physical Systems;</u> <i>Olusola Odeyomi</i></td>
     </tr>
     <tr>
-        <td><b>12:30 - 12:45</b></td>
-        <td><b>Closing Session by Organizing Committee</b></td>
-    </tr>
-    <tr>
-        <td><b>12:45 - Onward</b></td>
-        <td>Lunch 🍕🍕🍕</td>
+        <td><b>17:00 - 17:15</b></td>
+        <td><b>Best paper award and closing remarks by the organizing committee</b></td>
     </tr>
  </table>
