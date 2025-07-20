@@ -11,7 +11,9 @@ Here is the <i>final</i> schedule of the workshop program.
     <tr>
         <td><b>13:45 - 13:55</b></td>
         <td><b>Opening Session by Organizing Committee</b></td>
-        <td>Session Chair: Prof. Riccardo Lazzeretti</td>
+    </tr>
+    <tr>
+    <td>Session Chair: Prof. Riccardo Lazzeretti</td>
     </tr>
     <tr>
         <td><b>13:55 - 15:15</b></td>
