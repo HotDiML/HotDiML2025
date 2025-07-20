@@ -35,9 +35,9 @@ The workshop invites authors to submit papers on the following (but not limited 
 ## Supporters ##
 
 <table>
-    <col width="30%" />
+    <col width="100%" />
     <tr>
-        <td><img src="../static/images/sponsor.jpg" width=80%></td>
+        <td><img src="sponsor.jpg" width=80%></td>
     </tr>
     <tr>
         <td><a href='https://fare-project.github.io'>FARE Project</a> </td>
