@@ -11,10 +11,13 @@ Here is the <i>final</i> schedule of the workshop program.
     <tr>
         <td><b>13:45 - 13:55</b></td>
         <td><b>Opening Session by Organizing Committee</b></td>
+        <td>Session Chair: Prof. Riccardo Lazzeretti</td>
     </tr>
     <tr>
         <td><b>13:55 - 15:15</b></td>
         <td><b>Keynote</b></td>
+        <td>Title: The Landscape of Analyzing Binaries with Deep Neural Networks</td>
+        <td>Speaker: Giuseppe Antonio di Luna</td>
     </tr>
     <tr>
         <td><b>15:15 - 15:45</b></td>
@@ -23,6 +26,7 @@ Here is the <i>final</i> schedule of the workshop program.
     <tr>
         <td><b>15:45 - 16:15</b></td>
         <td><b>First Paper Presentation Session</td>
+        <td>Session Chair: Dr. Enkeleda Bardhi</td>
     </tr>
     <tr>
         <td></td>
@@ -35,6 +39,7 @@ Here is the <i>final</i> schedule of the workshop program.
     <tr>
         <td><b>16:15 - 17:00</b></td>
         <td><b>Second Paper Presentation Session</b></td>
+        <td>Session Chair: Dr. Andrea Agiollo</td>
     </tr>
     <tr>
         <td></td>
@@ -51,5 +56,6 @@ Here is the <i>final</i> schedule of the workshop program.
     <tr>
         <td><b>17:00 - 17:15</b></td>
         <td><b>Best paper award and closing remarks by the organizing committee</b></td>
+        <td>Session Chair: Dr. Enkeleda Bardhi</td>
     </tr>
  </table>
